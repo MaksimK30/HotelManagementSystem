@@ -1,0 +1,10 @@
+{
+  "Role":{
+    "id":0,
+    "title":"User"
+  },
+  "Role":{
+    "id":1,
+    "title":"Administrator"
+  }
+}
